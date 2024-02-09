@@ -31,7 +31,7 @@ const Home = () => {
         <div className="section">
           <table className="table">
             <thead>
-              <tr>
+              <tr className="t-row">
                 <td>Title</td>
                 <td>Author</td>
                 <td>Publish Year</td>
